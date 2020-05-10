@@ -11,7 +11,7 @@ Natural Language Processing (NLP) is an ever-evolving field.  It is a subfield o
 <img src="images/nlppython.jpg" alt="book cover" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
 <img src="images/blaml.png" alt="book cover" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
 <img src="images/fastai.png" alt="website screenshot" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
-</p>
+</p><p style="clear: both;">
 <!-- <div class="row">
     <div class="inline-block">
         <img src="images/nlppython.jpg" alt="book cover" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
